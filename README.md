@@ -8,7 +8,8 @@
 - ✅ Using Concurrent.Futures library to have faster dorking.
 
 ## Showcase
-![Screenshot](https://user-images.githubusercontent.com/21289340/234357465-a878064e-f070-4841-b1e7-50851b810461.png)
+![Screenshot1](https://user-images.githubusercontent.com/21289340/234357465-a878064e-f070-4841-b1e7-50851b810461.png)
+![Screenshot2](https://user-images.githubusercontent.com/21289340/234358329-d725f2cc-15ba-4e7f-9ad4-11a01f2e62ae.png)
 
 ## Usage
 
