@@ -1,0 +1,5 @@
+requests
+colorama
+concurrent.futures
+googlesearch
+urllib3
